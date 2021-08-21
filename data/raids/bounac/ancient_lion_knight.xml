@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<!--Announcements-->
+	<announce delay="1000" type="Event" message="Something is Happening on Bounac" />
+	<announce delay="30000" type="Event" message="The Ancients Call a Knight trought the portal." />
+	<announce delay="60000" type="Event" message="Ancient Lion Knight as been summoned" />
+	<!--Single Spawns-->
+	<singlespawn delay="60000" name="Ancient Lion Knight" x="32459" y="32491" z="7"/>
+</raid>

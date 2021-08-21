@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Usurper" walkinterval="2000" floorchange="0" script="captain_usurper.lua">
+	<health now="100" max="100"/>
+	<look type="128" head="0" body="112" legs="107" feet="113" addons="0"/>
+</npc>
